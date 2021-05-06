@@ -21,4 +21,4 @@ func main() {
 	// output
 	fmt.Println("Your street address is: ", streetNumber, " ", streetName, ".")
 	fmt.Println("\nDone.")
-	}
+}
