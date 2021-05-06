@@ -11,7 +11,6 @@ func main() {
 	// This function does addition
 	var streetName string
 	var streetNumber int
-
   // input
 	fmt.Println("This program gets a user's street number and name.")
 	fmt.Println()
